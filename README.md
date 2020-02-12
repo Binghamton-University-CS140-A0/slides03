@@ -165,7 +165,7 @@ rect1.x = rect1.x + dx;
 rect1.y = rect1.y + dy;
 ```
 
-![](Implicit1.jpg)
+![](https://www.cs.binghamton.edu/~lander/cs140/Implicit1.JPG)
 
 **Instance vs Class methods**
 
@@ -185,7 +185,7 @@ the implicit parameter in their activation records
 
 **Constructors use "this" for the object being built**
 
-![](CallStack1.jpg)
+![](https://www.cs.binghamton.edu/~lander/cs140/CallStack1.jpg)
 
 - Remember this is just the beginning of the significance of "this"
 
