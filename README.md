@@ -185,7 +185,7 @@ the implicit parameter in their activation records
 
 **Constructors use "this" for the object being built**
 
-![](https://www.cs.binghamton.edu/~lander/cs140/CallStack1.jpg)
+![](https://www.cs.binghamton.edu/~lander/cs140/CallStack1.JPG)
 
 - Remember this is just the beginning of the significance of "this"
 
